@@ -1,0 +1,16 @@
+current directory: /home/calebv/Documents/Programming_Projects/portfolio/vendor/cache/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220103-22769-hajb4e.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/calebv/Documents/Programming_Projects/portfolio/vendor/cache/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /home/calebv/Documents/Programming_Projects/portfolio/vendor/cache/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/calebv/Documents/Programming_Projects/portfolio/vendor/cache/ruby/2.7.0/gems/unf_ext-0.0.8/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20220103-22769-1csjv4o

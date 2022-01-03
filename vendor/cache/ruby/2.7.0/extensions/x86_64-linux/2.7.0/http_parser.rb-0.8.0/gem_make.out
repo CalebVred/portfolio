@@ -1,0 +1,16 @@
+current directory: /home/calebv/Documents/Programming_Projects/portfolio/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220103-22769-1tgzgp1.rb extconf.rb
+creating Makefile
+
+current directory: /home/calebv/Documents/Programming_Projects/portfolio/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /home/calebv/Documents/Programming_Projects/portfolio/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/calebv/Documents/Programming_Projects/portfolio/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20220103-22769-ta2nd0
