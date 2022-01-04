@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Resume
 layout: default
-permalink: /portfolio/resume/
+permalink: portfolio/resume/
 ---
 # Resume
 

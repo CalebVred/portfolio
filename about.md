@@ -1,7 +1,5 @@
 ---
-layout: page
 title: About
-menus: header
 layout: default
 permalink: portfolio/about/
 ---
