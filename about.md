@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-permalink: portfolio/about/
+permalink: portfolio/about
 ---
 # About
 
