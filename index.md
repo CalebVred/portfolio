@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Portfolio
 layout: default
 ---
 
