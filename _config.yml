@@ -17,7 +17,7 @@ title: Project Portfolio
 email: cvredevoogd99@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, my name is Caleb Vredevoogd. I'm a software developer and currently a Computer Science student. This is a portfolio where you can find posts about projects as well as my resume.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: """ # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  calebvred
 
