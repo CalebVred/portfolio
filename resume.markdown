@@ -1,7 +1,7 @@
 ---
 title: Resume
 layout: default
-permalink: portfolio/resume
+permalink: /resume/
 ---
 # Resume
 
