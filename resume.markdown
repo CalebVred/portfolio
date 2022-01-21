@@ -81,6 +81,6 @@ GPA: 3.2/4.0
 * Assembled skids to hold furniture parts
 * Built custom crates for parts orders, using specific measurements
 
-Download a copy of my [resume](https://www.dropbox.com/s/2idjrohb1u69utv/Caleb%20Vredevoogd-%20Resume.pdf?dl=0).
+Download a copy of my [resume](https://www.dropbox.com/s/ynbj9weuq36d78x/Caleb%20Vredevoogd-%20Resume.pdf?dl=0).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/caleb-vredevoogd-71515a166/)
