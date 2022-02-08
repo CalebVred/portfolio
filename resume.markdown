@@ -52,7 +52,7 @@ GPA: 3.2/4.0
 
 ##### Calvin University, Grand Rapids, MI
 
-​	ARCHIE PI Research Assistant, Spring 2020 through present
+​	ARCHIE PI Research Assistant, Spring 2020 through Fall 2021
 
 * Ported RACHELPI to Debian Buster and Raspberry Pi 4
 * Wrote easy to understand step-by-step instructions
